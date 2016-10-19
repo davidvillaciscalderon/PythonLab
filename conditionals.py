@@ -1,7 +1,7 @@
 
 weather="rainy"
 
-if(weather=="rainy"):
+if weather=="rainy":
     print("Bring an umbrella")
-else:
+elif:
     print("Bring your sunglasses")
