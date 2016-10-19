@@ -1,6 +1,7 @@
 number=input("Give me a number")
+number=float(number)
 
 if number%2==0:
-    print(number+" is even")
+    print(str(number)+" is even")
 else:
-    print(number+" is odd")
+    print(str(number)+" is odd")
