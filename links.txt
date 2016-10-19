@@ -1,3 +1,5 @@
 Online Python IDE
 
 https://repl.it/languages/python3
+
+http://www.asciitable.com/
