@@ -5,10 +5,10 @@ guess=input("heads or tails")
 
 if random_number%2==0:
     coin="tails"
-else
+else:
     coin="heads"
 
 if guess==coin:
     print("You win")
-else
+else:
     print("You loose")
