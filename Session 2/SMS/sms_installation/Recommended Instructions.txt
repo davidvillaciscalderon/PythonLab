@@ -1,0 +1,10 @@
+Recommended Instructions
+
+Install Python 2.7.x
+
+easy_install-2.7 virtualenv
+
+Create a requirments text file similar to the one found in this directory.
+
+pip install -r requirements.txt
+
