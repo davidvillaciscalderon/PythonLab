@@ -1,3 +1,5 @@
+#Author Emily Keiser
+
 quote="Whenever you find yourself on the side of the majority, it is time to pause and reflect."
 #quote=input("Insert quote")
 
